@@ -75,16 +75,16 @@ Development of the application:<br></br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 App developer: <br></br>
-* <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
-* <a href="https://github.com/Riya2919">Riya Gandhi </a><br></br>
+* <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
 
 Contributors: <br></br>
 * <a href="https://github.com/zankhana46">Zankhana Mehta </a></br>
-* <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
 * <a href="https://github.com/devk22">Dev Khandelwal </a></br>
 * <a href="https://github.com/ranjan210">Ranjan </a></br>
 * <a href="https://github.com/Anushkaa27">Anushka Singh</a></br>
 * <a href="https://github.com/Vaishnaviii25">Vaishnavi Panchal</a></br>
+* <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
+* <a href="https://github.com/Riya2919">Riya Gandhi </a><br></br>
 
 
 
