@@ -69,9 +69,7 @@ Development of the application:<br></br>
 
 * The image classification machine learning model is used with the help of tensorflow to establish our CropCam feature.<br></br>
 
-* (https://tfhub.dev/rishit-dagli/plant-disease/1)<br></br>
-
-* [Labels.txt](https://github.com/Abhiman1211/Asaan4Kissan/files/9467267/Labels.txt) (Labels) 
+* (https://tfhub.dev/rishit-dagli/plant-disease/1)<br></br> 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 App developer: <br></br>
